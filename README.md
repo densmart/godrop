@@ -1,0 +1,2 @@
+# godrop
+IRC bot
